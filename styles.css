@@ -1,6 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif;
-    margin:50px;
+
 }
 
 #hero {
@@ -29,6 +29,10 @@ body {
     font-weight: bold;
     padding: 20px 40px;
     text-shadow: 0 0 2px black;
+}
+
+.hero-btn:hover {
+    background-color: #04affe75
 }
 
 .underline {
